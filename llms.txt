@@ -1,0 +1,13 @@
+# lm-agent-skills
+
+> Public agent-facing skill packs for AI Profit Machine managed agents. Provisioning = skill-pack pull, not a SKU/family/domain/checkout. Mastra = consumer only. Authoring SoT remains the private APM monorepo.
+
+## Packs
+
+- [Marketing Agent (+ Email Drafter)](https://raw.githubusercontent.com/rapidstartup/lm-agent-skills/main/managed-agents/marketing-agent/SKILL.md): Draft-only Marketing Agent and Email Drafter provider pack for Claude, Grok Bot, Hermes, or a Mastra consumer.
+
+## Indexes
+
+- [Root index](https://raw.githubusercontent.com/rapidstartup/lm-agent-skills/main/index.md)
+- [Managed-agents index](https://raw.githubusercontent.com/rapidstartup/lm-agent-skills/main/managed-agents/index.md)
+- [README](https://raw.githubusercontent.com/rapidstartup/lm-agent-skills/main/README.md)
